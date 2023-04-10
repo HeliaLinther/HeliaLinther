@@ -13,7 +13,7 @@
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HeliaLinther&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HeliaLinther&theme=monokai-metallian&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HeliaLinther&theme=monokai-metallian&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 <!-- 技术栈卡片-->
  <img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeliaLinther&theme=vue-dark&layout=compact">
