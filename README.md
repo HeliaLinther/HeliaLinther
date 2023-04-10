@@ -1,9 +1,11 @@
 ### Welcome to HeliaLinther's git <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=HeliaLinther" /> </div>
+
   <img align="right" src="https://count.getloli.com/get/@:HeliaLinther?theme=rule34">
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74EBF&width=435&lines=welcome+to+my+git;have+a+good+day!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74EBF&width=500&lines=welcome+to+my+git;have+a+nice+day!" alt="Typing SVG" /></a>
 
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -13,8 +15,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HeliaLinther&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- 技术栈卡片-->
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeliaLinther&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+ <img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeliaLinther&theme=vue-dark&layout=compact">
 <!--BILIBILI卡片-->
 <img src="https://stats.justsong.cn/api/bilibili/?id=250986840&theme=cobalt&show_icons=true"/>
   
