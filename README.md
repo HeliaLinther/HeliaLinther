@@ -1,12 +1,10 @@
-### Welcome to HeliaLinther's git <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Welcome to my git <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=HeliaLinther" /> </div>
 
   <img align="right" src="https://count.getloli.com/get/@:HeliaLinther?theme=rule34">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74EBF&width=500&lines=welcome+to+my+git;have+a+nice+day!" alt="Typing SVG" /></a>
-
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=FF8B96&center=true&width=435&lines=Welcome+to+HeliaLinther's++GIT;Have+a+nice+day+!)](https://git.io/typing-svg)
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
