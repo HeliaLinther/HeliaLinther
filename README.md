@@ -11,8 +11,7 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HeliaLinther&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HeliaLinther&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- 技术栈卡片-->
  <img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeliaLinther&theme=vue-dark&layout=compact">
@@ -21,7 +20,6 @@
   
 
  </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=HeliaLinther" /> </div>
                 
 <div align="center"> 🙈🙉🙊💥💫💦💨🐵🐒🦍🦧🐶🐕🦮</div>
 <!-- ########################################## 分割 ########################################## -->
