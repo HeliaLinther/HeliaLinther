@@ -4,8 +4,10 @@
   <img align="right" src="https://count.getloli.com/get/@:HeliaLinther?theme=rule34">
   
   <!-- dynamic typing effect 动态打字效果 -->
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&pause=1000&color=FF8B96&center=true&width=435&lines=Welcome+to+HeliaLinther's++GIT;Have+a+nice+day+!)](https://git.io/typing-svg)
 
+<div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
